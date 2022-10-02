@@ -1,0 +1,36 @@
+C:\Users\Windows 11\source\repos\DataStracturesPrj\DataStracturesPrj\bin\Debug\DataStracturesPrj.dll
+C:\Users\Windows 11\source\repos\DataStracturesPrj\DataStracturesPrj\bin\Debug\DataStracturesPrj.pdb
+C:\Users\Windows 11\source\repos\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.csproj.AssemblyReference.cache
+C:\Users\Windows 11\source\repos\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.dll
+C:\Users\Windows 11\source\repos\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.pdb
+C:\Users\Dennis K\Desktop\DataStracturesPrj\DataStracturesPrj\bin\Debug\DataStracturesPrj.dll
+C:\Users\Dennis K\Desktop\DataStracturesPrj\DataStracturesPrj\bin\Debug\DataStracturesPrj.pdb
+C:\Users\Dennis K\Desktop\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.csproj.AssemblyReference.cache
+C:\Users\Dennis K\Desktop\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.csproj.CoreCompileInputs.cache
+C:\Users\Dennis K\Desktop\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.dll
+C:\Users\Dennis K\Desktop\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.pdb
+C:\Users\Windows 11\Desktop\DataStracturesPrj\DataStracturesPrj\bin\Debug\DataStracturesPrj.dll
+C:\Users\Windows 11\Desktop\DataStracturesPrj\DataStracturesPrj\bin\Debug\DataStracturesPrj.pdb
+C:\Users\Windows 11\Desktop\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.csproj.AssemblyReference.cache
+C:\Users\Windows 11\Desktop\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Desktop\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.dll
+C:\Users\Windows 11\Desktop\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.pdb
+D:\DataStracturesPrj\DataStracturesPrj\bin\Debug\DataStracturesPrj.dll
+D:\DataStracturesPrj\DataStracturesPrj\bin\Debug\DataStracturesPrj.pdb
+D:\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.csproj.AssemblyReference.cache
+D:\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.csproj.CoreCompileInputs.cache
+D:\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.dll
+D:\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.pdb
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\DataStracturesPrj\bin\Debug\DataStracturesPrj.dll
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\DataStracturesPrj\bin\Debug\DataStracturesPrj.pdb
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.csproj.AssemblyReference.cache
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.dll
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.pdb
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\DataStracturesPrj\bin\Debug\DataStracturesPrj.dll
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\DataStracturesPrj\bin\Debug\DataStracturesPrj.pdb
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.csproj.AssemblyReference.cache
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.csproj.CoreCompileInputs.cache
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.dll
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\DataStracturesPrj\obj\Debug\DataStracturesPrj.pdb

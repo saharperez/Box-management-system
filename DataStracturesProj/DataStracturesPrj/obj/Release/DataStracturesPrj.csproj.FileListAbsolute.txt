@@ -1,0 +1,6 @@
+C:\Users\Dennis K\Desktop\DataStracturesPrj\DataStracturesPrj\bin\Release\DataStracturesPrj.dll
+C:\Users\Dennis K\Desktop\DataStracturesPrj\DataStracturesPrj\bin\Release\DataStracturesPrj.pdb
+C:\Users\Dennis K\Desktop\DataStracturesPrj\DataStracturesPrj\obj\Release\DataStracturesPrj.csproj.AssemblyReference.cache
+C:\Users\Dennis K\Desktop\DataStracturesPrj\DataStracturesPrj\obj\Release\DataStracturesPrj.csproj.CoreCompileInputs.cache
+C:\Users\Dennis K\Desktop\DataStracturesPrj\DataStracturesPrj\obj\Release\DataStracturesPrj.dll
+C:\Users\Dennis K\Desktop\DataStracturesPrj\DataStracturesPrj\obj\Release\DataStracturesPrj.pdb

@@ -1,0 +1,47 @@
+C:\Users\Windows 11\source\repos\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\Windows 11\source\repos\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\bin\Debug\Logic.dll
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\bin\Debug\Logic.pdb
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\bin\Debug\DataStracturesPrj.dll
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\bin\Debug\DataStracturesPrj.pdb
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\obj\Debug\Logic.dll
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\obj\Debug\Logic.pdb
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Logic\obj\Debug\Logic.dll
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Logic\obj\Debug\Logic.pdb
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Logic\bin\Debug\Logic.dll
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Logic\bin\Debug\Logic.pdb
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Logic\bin\Debug\DataStracturesPrj.dll
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Logic\bin\Debug\DataStracturesPrj.pdb
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.CopyComplete
+D:\DataStracturesPrj\Logic\bin\Debug\Logic.dll
+D:\DataStracturesPrj\Logic\bin\Debug\Logic.pdb
+D:\DataStracturesPrj\Logic\bin\Debug\DataStracturesPrj.dll
+D:\DataStracturesPrj\Logic\bin\Debug\DataStracturesPrj.pdb
+D:\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+D:\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+D:\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.CopyComplete
+D:\DataStracturesPrj\Logic\obj\Debug\Logic.dll
+D:\DataStracturesPrj\Logic\obj\Debug\Logic.pdb
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Logic\bin\Debug\Logic.dll
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Logic\bin\Debug\Logic.pdb
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Logic\bin\Debug\DataStracturesPrj.dll
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Logic\bin\Debug\DataStracturesPrj.pdb
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Logic\obj\Debug\Logic.dll
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Logic\obj\Debug\Logic.pdb
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Logic\bin\Debug\Logic.dll
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Logic\bin\Debug\Logic.pdb
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Logic\bin\Debug\DataStracturesPrj.dll
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Logic\bin\Debug\DataStracturesPrj.pdb
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Logic\obj\Debug\Logic.dll
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Logic\obj\Debug\Logic.pdb

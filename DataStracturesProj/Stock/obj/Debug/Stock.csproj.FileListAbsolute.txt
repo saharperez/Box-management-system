@@ -1,0 +1,80 @@
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Debug\Stock.exe.config
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Debug\Stock.exe
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Debug\Stock.pdb
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Debug\Logic.dll
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Debug\DataStracturesPrj.dll
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Debug\Logic.pdb
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Debug\DataStracturesPrj.pdb
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.AssemblyReference.cache
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.CopyComplete
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\obj\Debug\Stock.exe
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\obj\Debug\Stock.pdb
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Stock\bin\Debug\Stock.exe.config
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Stock\bin\Debug\Stock.exe
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Stock\bin\Debug\Stock.pdb
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Stock\bin\Debug\Logic.dll
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Stock\bin\Debug\DataStracturesPrj.dll
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Stock\bin\Debug\Logic.pdb
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Stock\bin\Debug\DataStracturesPrj.pdb
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.AssemblyReference.cache
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.CopyComplete
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Stock\obj\Debug\Stock.exe
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Stock\obj\Debug\Stock.pdb
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Stock\bin\Debug\ConsoleTables.dll
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Stock\bin\Debug\EasyConsole.dll
+C:\Users\Windows 11\Desktop\DataStracturesPrj\Stock\bin\Debug\ConsoleTables.pdb
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Debug\ConsoleTables.dll
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Debug\EasyConsole.dll
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Debug\ConsoleTables.pdb
+D:\DataStracturesPrj\Stock\bin\Debug\Stock.exe.config
+D:\DataStracturesPrj\Stock\bin\Debug\Stock.exe
+D:\DataStracturesPrj\Stock\bin\Debug\Stock.pdb
+D:\DataStracturesPrj\Stock\bin\Debug\ConsoleTables.dll
+D:\DataStracturesPrj\Stock\bin\Debug\EasyConsole.dll
+D:\DataStracturesPrj\Stock\bin\Debug\Logic.dll
+D:\DataStracturesPrj\Stock\bin\Debug\DataStracturesPrj.dll
+D:\DataStracturesPrj\Stock\bin\Debug\Logic.pdb
+D:\DataStracturesPrj\Stock\bin\Debug\ConsoleTables.pdb
+D:\DataStracturesPrj\Stock\bin\Debug\DataStracturesPrj.pdb
+D:\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.AssemblyReference.cache
+D:\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.SuggestedBindingRedirects.cache
+D:\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+D:\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.CopyComplete
+D:\DataStracturesPrj\Stock\obj\Debug\Stock.exe
+D:\DataStracturesPrj\Stock\obj\Debug\Stock.pdb
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Stock\bin\Debug\Stock.exe.config
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Stock\bin\Debug\Stock.exe
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Stock\bin\Debug\Stock.pdb
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Stock\bin\Debug\ConsoleTables.dll
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Stock\bin\Debug\EasyConsole.dll
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Stock\bin\Debug\Logic.dll
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Stock\bin\Debug\DataStracturesPrj.dll
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Stock\bin\Debug\Logic.pdb
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Stock\bin\Debug\ConsoleTables.pdb
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Stock\bin\Debug\DataStracturesPrj.pdb
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.AssemblyReference.cache
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.CopyComplete
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Stock\obj\Debug\Stock.exe
+C:\Users\Dennis\Desktop\Projects\DataStracturesPrj\Stock\obj\Debug\Stock.pdb
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Stock\bin\Debug\Stock.exe.config
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Stock\bin\Debug\Stock.exe
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Stock\bin\Debug\Stock.pdb
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Stock\bin\Debug\ConsoleTables.dll
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Stock\bin\Debug\EasyConsole.dll
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Stock\bin\Debug\Logic.dll
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Stock\bin\Debug\DataStracturesPrj.dll
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Stock\bin\Debug\Logic.pdb
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Stock\bin\Debug\ConsoleTables.pdb
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Stock\bin\Debug\DataStracturesPrj.pdb
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.AssemblyReference.cache
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Stock\obj\Debug\Stock.csproj.CopyComplete
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Stock\obj\Debug\Stock.exe
+C:\Users\sahar\source\repos\KatiaAlgorithmsandDataStructures\Boxes-system\DataStracturesPrj\Stock\obj\Debug\Stock.pdb

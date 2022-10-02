@@ -1,0 +1,13 @@
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Release\Stock.exe.config
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Release\Stock.exe
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Release\Stock.pdb
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Release\Logic.dll
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Release\DataStracturesPrj.dll
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Release\Logic.pdb
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\bin\Release\DataStracturesPrj.pdb
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\obj\Release\Stock.csproj.AssemblyReference.cache
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\obj\Release\Stock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\obj\Release\Stock.csproj.CoreCompileInputs.cache
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\obj\Release\Stock.csproj.CopyComplete
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\obj\Release\Stock.exe
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Stock\obj\Release\Stock.pdb

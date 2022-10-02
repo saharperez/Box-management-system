@@ -1,0 +1,9 @@
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\bin\Release\Logic.dll
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\bin\Release\Logic.pdb
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\bin\Release\DataStracturesPrj.dll
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\bin\Release\DataStracturesPrj.pdb
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\obj\Release\Logic.csproj.AssemblyReference.cache
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\obj\Release\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\obj\Release\Logic.csproj.CopyComplete
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\obj\Release\Logic.dll
+C:\Users\Dennis K\Desktop\DataStracturesPrj\Logic\obj\Release\Logic.pdb
